@@ -1,8 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Leonardo
 
+#### 🧑‍💻 About me:
+I'm an aspiring developer passionate about learning new technologies and building cool projects.
+
+#### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/leonardo-c-duarte/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
 <!--
-**leocduarte/leocduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
